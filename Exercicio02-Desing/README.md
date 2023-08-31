@@ -2,5 +2,5 @@
 
 Print da aplicação rodando no meu dispositivo:
 
-![Optional Text](../main/assets/printRodando.png)
+<img src="/assets/printRodando.png">
 
