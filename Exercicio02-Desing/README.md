@@ -2,5 +2,5 @@
 
 Print da aplicação rodando no meu dispositivo:
 
-<img src="/assets/printRodando.png">
+<img src="/Exercicio02-Desing/assets/printRodando.png">
 
